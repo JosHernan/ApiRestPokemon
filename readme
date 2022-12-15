@@ -1,0 +1,6 @@
+http://localhost:8080/api/pokemon/abilities/1
+http://localhost:8080/api/pokemon/experience/1
+http://localhost:8080/api/pokemon/helditem/1
+http://localhost:8080/api/pokemon/location/1
+http://localhost:8080/api/pokemon/version/1
+http://localhost:8080/api/pokemon/move/1
